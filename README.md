@@ -1,3 +1,6 @@
+![CERT Societe Generale Logo](CERT_SocieteGenerale_Logo.jpg  "CERT Societe Generale Logo")
+
+
 IRM (Incident Response Methodologies)
 =====================================
 
