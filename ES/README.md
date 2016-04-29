@@ -1,4 +1,4 @@
 Spanish version
 ===============
 
-The spanish version is available on the [OAS's website](http://oas.org/es/ssm/cyber/docs_irms.asp).
+The spanish version is available on [phrancisco's GitHub](https://github.com/phrancisco/IRMs-SP).
