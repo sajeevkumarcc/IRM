@@ -6,7 +6,7 @@ IRM (Incident Response Methodologies)
 
 CERT Societe Generale provides easy to use operational incident best practices. These cheat sheets are dedicated to incident handling and cover multiple fields in which a CERT team can be involved. One IRM exists for each security incident we're used to dealing with.
 
-These cheat sheets have been written in English and Russian, and translated into Spanish by Francisco Neira from the [OAS](http://oas.org/es/ssm/cyber/docs_irms.asp).
+These cheat sheets have been written in English and Russian, and translated into Spanish by Francisco Neira from the [OAS](https://github.com/phrancisco/IRMs-SP).
 
 CERT Societe Generale would like to thank [SANS](https://www.sans.org/) and [Lenny Zeltser](https://zeltser.com/cheat-sheets/) who have been a major source of inspiration for some IRMs.
 
